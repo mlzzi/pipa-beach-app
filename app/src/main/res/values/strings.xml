@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">PipaApp</string>
+
+    <string name="praia_do_centro">Praia do Centro</string>
+    <string name="praia_do_amor">Praia do Amor</string>
+    <string name="braia_dos_golfinhos">Baía dos Golfinhos</string>
+    <string name="praia_do_madeiro">Praia do Madeiro</string>
+    <string name="praia_da_cancela">Praia da Cancela</string>
+    <string name="praia_das_minas">Praia das Minas</string>
+    <string name="praia_da_cacimbinha">Praia da Cacimbinha</string>
+    <string name="praia_do_giz">Praia do Giz</string>
+
+    <string name="centro_gps">praia do centro, pipa</string>
+    <string name="amor_gps" />
+    <string name="golfinhos_gps" />
+    <string name="madeiro_gps" />
+    <string name="cancela_gps" />
+    <string name="minas_gps" />
+    <string name="cacimbinha_gps" />
+    <string name="giz_gps" />
+
+    <string name="beach_fragment_label">Beach Detail</string>
+    <string name="list_fragment_label">Beaches</string>
+
+    <string name="back_button">Back</string>
+
+    <string name="pizzaria_do_ademilson">Pizzaria do Ademilson</string>
+    <string name="empanadas_argentinas">Empanadas Argentinas</string>
+    <string name="manas">Mana Doce Sabor</string>
+    <string name="tres_empanadas">Três Empanadas</string>
+    <string name="acai_da_pipa">Açaí da Pipa</string>
+    <string name="manaki">Restaurante Manaki</string>
+    <string name="gelateria_preciosa">Gelateria Preciosa</string>
+
+    <string name="pousada_toa_toa">Pousada Toa Toa</string>
+    <string name="pousada_das_tartarugas">Pousada das Tartarugas</string>
+    <string name="pousada_sol_da_pipa">Pousada Sol da Pipa</string>
+    <string name="pousada_toca_da_coruja">Pousada Toca da Coruja</string>
+    <string name="hotel_marlins">Hotel Marlin`s</string>
+    <string name="hotel_sombra_agua_fresca">Hotel Sombra e Água Fresca</string>
+    <string name="hostel_do_ceu">Hostel do Céu</string>
+
+    <string name="praia">Praia</string>
+    <string name="hotel">Hotel</string>
+    <string name="restaurante">Restaurante</string>
+    <string name="bares">Bares</string>
+    <string name="utilidades">Utilidades</string>
+
+    <string name="navigation_bottom">Navigation Bottom</string>
+    <string name="navigation_back">Back</string>
+
+    <string name="pipa_app_logo">Pipa App Logo</string>
+    <string name="pipa_app">PIPA APP</string>
+
+    <string name="fonte">Fonte Bar</string>
+    <string name="bakana">Bakana Bar</string>
+    <string name="dudo">Dudo Bar</string>
+    <string name="agora">Ágora</string>
+    <string name="taipa">Taipa Bar</string>
+    <string name="tribus">Tribus Brasil</string>
+
+    <string name="caixa">Caixa 24 horas</string>
+    <string name="farmacia">Farmácia</string>
+    <string name="mercado">Mercado Pai e Filho</string>
+    <string name="rodoviaria">Rodoviária</string>
+    <string name="ubs">Unidade Básica de Saúde</string>
+    <string name="pousada_paraiso_das_tartarugas">Pousada Paraíso das Tartarugas</string>
+</resources>
