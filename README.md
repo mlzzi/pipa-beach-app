@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshots
 
-![](./screenshot_mobile.png)
+![](./screenshot_smartphone.png)
 ![](./screenshot_foldable.png)
 ![](./screenshot_tablet.png)
 
