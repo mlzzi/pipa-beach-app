@@ -22,8 +22,13 @@ Users should be able to:
 
 ### Screenshots
 
+#### Smartphone Version:
 ![](./screenshot_smartphone.png)
+
+#### Foldable Phone Version:
 ![](./screenshot_foldable.png)
+
+#### Tablet Version:
 ![](./screenshot_tablet.png)
 
 ### Links
